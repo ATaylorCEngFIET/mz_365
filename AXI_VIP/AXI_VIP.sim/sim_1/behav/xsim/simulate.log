@@ -1,0 +1,14 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Block Memory Generator module tb.DUT.design_1_i.axi_bram_ctrl_0_bram.inst.\native_mem_mapped_module.blk_mem_gen_v8_4_4_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+XilinxAXIVIP: Found at Path: tb.DUT.design_1_i.axi_vip_0.inst
+Block Memory Generator module tb.DUT.design_1_i.axi_bram_ctrl_0_bram.inst.\native_mem_mapped_module.blk_mem_gen_v8_4_4_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+XilinxAXIVIP: Found at Path: tb.DUT.design_1_i.axi_vip_0.inst
+EXAMPLE TEST DONE : Test Completed Successfully
+Executing Axi4 End Of Simulation checks
+$finish called at time : 1125 ns : File "C:/Xilinx/Vivado/2020.1/data/xilinx_vip/hdl/axi_vip_axi4pc.sv" Line 3126
+Block Memory Generator module tb.DUT.design_1_i.axi_bram_ctrl_0_bram.inst.\native_mem_mapped_module.blk_mem_gen_v8_4_4_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+XilinxAXIVIP: Found at Path: tb.DUT.design_1_i.axi_vip_0.inst
+EXAMPLE TEST DONE : Test Completed Successfully
+Executing Axi4 End Of Simulation checks
+$finish called at time : 1125 ns : File "C:/Xilinx/Vivado/2020.1/data/xilinx_vip/hdl/axi_vip_axi4pc.sv" Line 3126

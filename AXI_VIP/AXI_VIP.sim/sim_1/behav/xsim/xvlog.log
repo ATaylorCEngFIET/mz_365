@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/hdl_projects/AXI_VIP/AXI_VIP.srcs/sim_1/new/tb_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_vip_0_mst_stimulus
+INFO: [VRFC 10-311] analyzing module tb
